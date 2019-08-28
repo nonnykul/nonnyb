@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+.box-1{
+    color: black;
+    line-height: 0.5;
+
+}
+h2{
+    color: green;
+}
+.container{
+    width: 960px;
+}
+.box-2{
+    margin: 0%;
+    line-height: 1.2em;    
+}
